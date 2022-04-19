@@ -1,4 +1,5 @@
 ## Covid19 Pneumonia Detection Project by using *Artificial Intelligence* Techniques
+(March, April 2021)
 
 Aim of this study is designing a deep learning model to detect Covid 19 disease using x-ray lung images from 
 [“Kaggle, CoronaHack -Chest X-Ray-Dataset”](https://www.kaggle.com/praveengovi/coronahack-chest-xraydataset/metadata) dataset. 
