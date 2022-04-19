@@ -83,7 +83,7 @@ There is also Python Script to create CSV file with one line of shell command.
 
 After selecting the model structure, different training methods was used in different combination in order to see the effect of the methods.
 ResNet 50 and ResNet 18 architectetures was used for pretrained model. These models were tested along with the modified resnet18 mentioned above. Every model runs with same settings. Only the output class number changes to 3 or 7.
-**Result Model** , *unlike others*, was babysitted to test the author's understanding about the relation between gradient updates, learning rate, sample distribution. Only "Modified ResNet18" model (Result Model) babysitted to have a relatively better generalized model compare to others. The algorithm followed for babysitting while training the "Result Model" will be explained in the "Algorithm Training of the Outcome Model" section. 
+**Result Model** , *unlike others*, was babysitted to test the author's understanding about the relation between gradient updates, learning rate, sample distribution. Only "Modified ResNet18" model (Result Model) babysitted to have a relatively better generalized model compare to others. The algorithm followed for babysitting while training the "Result Model" will be explained in the "Training algorithm of Result Model" section. 
 
 All models except the "Result Model" were trained with the same parameters. These are:
 
